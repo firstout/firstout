@@ -13,4 +13,5 @@
 
 가능한 언어
 - Python (OpenCV, Scikitlearn, tensorflow)
+- SQL (MySQL)
 - Java
