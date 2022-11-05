@@ -20,6 +20,8 @@ INTP (내향적/상상이 풍부한/이성적/즉흥적) <br/>
 
 ---
 <div align="center">
+  <a href = "https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_02_Narutal%20Language%20Processing%20with%20Disaster%20Tweets"> Kaggle_02_Narutal Language Processing with Disaster Tweets in 부트캠프 </a> <br/>
+  
   <a href = "https://adaptable-newsboy-3bc.notion.site/ppt-bf8e30a6595c4fc098071ab75f9bce4a"> 퍼스널 맛집 추천 서비스 취향식탁 🍽 </a> <br/>
   <a href = "https://github.com/kyky7896/Snubfy_project"> 영양소 분석을 통한 식품 추천 시스템 "SNuPFY" 🥦 </a>
 </div>
