@@ -20,8 +20,8 @@ INTP (내향적/상상이 풍부한/이성적/즉흥적) <br/>
 
 ---
 <div align="center">
-리뷰 키워드 분석을 통한 맛집 추천 시스템 "취향식탁" 🍽 <br/>
-영양소 분석을 통한 식품 추천 시스템 "SNuPFY" 🥦
+[리뷰 키워드 분석을 통한 맛집 추천 시스템 "취향식탁"][https://adaptable-newsboy-3bc.notion.site/ppt-bf8e30a6595c4fc098071ab75f9bce4a] 🍽 <br/>
+[영양소 분석을 통한 식품 추천 시스템 "SNuPFY"][https://github.com/kyky7896/Snubfy_project] 🥦
 </div>
 
 <br/><br/>
