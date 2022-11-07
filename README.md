@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstout&show_icons=true&theme=radical&card_width=100px&layout=compact&bg_color=E5E5E5&title_color=252525&text_color=1E3A64&icon_color=0036AB)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstout&layout=compact)
+
 
 <br/>
 <h3 align = "center">💻Tech Stack💻</h3>
