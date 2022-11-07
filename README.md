@@ -1,8 +1,42 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=fcf0a0&height=300&text=Hello!%20I'm%20Seonmin🐣&fontColor=8ABB8A&fontSize=70&fontAlign=60&rotate=18&stroke=8ABB8A&strokeWidth=3)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstout&show_icons=true&theme=radical&card_width=100px&layout=compact&bg_color=F3F2E1&title_color=252525&text_color=1E3A64&icon_color=0036AB)
+<style>
+/* CSS */
+.grid-image {
+    display:flex;
+    flex-wrap:wrap;
+    align-items:flex-start;
+    margin:30px 0;
+}
+.grid-image img {
+    width:calc(45% - 10px);
+    margin:0 15px 15px 0;
+}
+.grid-image img:nth-of-type(3n),
+.grid-image img:last-child {
+    margin-right:0;
+}
+@media screen and (max-width:640px){
+  .grid-image img {
+    width:calc(50% - 15px);
+  }
+}
+@media screen and (max-width:480px){
+  .grid-image img:nth-of-type(2n) {
+    margin-right:0;
+  }
+  .grid-image img:nth-of-type(3n) {
+    margin-right:15px;
+  }
+}
+</style>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstout&layout=compact)
+<div class = "grid-image">
+  <img src="https://github-readme-stats.vercel.app/api?username=firstout&show_icons=true&theme=radical&card_width=100px&layout=compact&bg_color=E5E5E5&title_color=252525&text_color=1E3A64&icon_color=0036AB" alt = "[Anurag's GitHub stats]">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firstout&layout=compact" alt = "[Top Langs]">
+
+</div>
 
 <br/>
 <h3 align = "center">💻Tech Stack💻</h3>
