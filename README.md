@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=fcf0a0&height=300&text=Hello!%20I'm%20Seonmin🐣&fontColor=8ABB8A&fontSize=70&fontAlign=60&rotate=18&stroke=8ABB8A&strokeWidth=3)
 
 <div class = "grid-image">
-  <img src="https://github-readme-stats.vercel.app/api?username=firstout&show_icons=true&theme=radical&card_width=100px&layout=compact&bg_color=E5E5E5&title_color=252525&text_color=1E3A64&icon_color=0036AB" alt = "[Anurag's GitHub stats]">
+  <img src="https://github-readme-stats.vercel.app/api?username=firstout&show_icons=true&theme=radical&card_width=100px&layout=compact&bg_color=F3F2E1&title_color=252525&text_color=1E3A64&icon_color=0036AB" alt = "[Anurag's GitHub stats]">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firstout&layout=compact" alt = "[Top Langs]">
 
