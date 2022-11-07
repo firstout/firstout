@@ -46,9 +46,3 @@ INTP (내향적/상상이 풍부한/이성적/즉흥적) <br/>
 <br/>
 <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 </div>
-
-<p align = "center>
- <a href="#">
-    <img src="https://simpleicons.org/icons/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
- </a>  
-</p>
