@@ -1,34 +1,34 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=fcf0a0&height=300&text=Hello!%20I'm%20Seonmin🐣&fontColor=8ABB8A&fontSize=70&fontAlign=60&rotate=18&stroke=8ABB8A&strokeWidth=3)
 
 <style>
-/* CSS */
-.grid-image {
-    display:flex;
-    flex-wrap:wrap;
-    align-items:flex-start;
-    margin:30px 0;
-}
-.grid-image img {
-    width:calc(45% - 10px);
-    margin:0 15px 15px 0;
-}
-.grid-image img:nth-of-type(3n),
-.grid-image img:last-child {
-    margin-right:0;
-}
-@media screen and (max-width:640px){
-  .grid-image img {
-    width:calc(50% - 15px);
-  }
-}
-@media screen and (max-width:480px){
-  .grid-image img:nth-of-type(2n) {
-    margin-right:0;
-  }
-  .grid-image img:nth-of-type(3n) {
-    margin-right:15px;
-  }
-}
+    /* CSS */
+    .grid-image {
+        display:flex;
+        flex-wrap:wrap;
+        align-items:flex-start;
+        margin:30px 0;
+    }
+    .grid-image img {
+        width:calc(45% - 10px);
+        margin:0 15px 15px 0;
+    }
+    .grid-image img:nth-of-type(3n),
+    .grid-image img:last-child {
+        margin-right:0;
+    }
+    @media screen and (max-width:640px){
+      .grid-image img {
+        width:calc(50% - 15px);
+      }
+    }
+    @media screen and (max-width:480px){
+      .grid-image img:nth-of-type(2n) {
+        margin-right:0;
+      }
+      .grid-image img:nth-of-type(3n) {
+        margin-right:15px;
+      }
+    }
 </style>
 
 <div class = "grid-image">
